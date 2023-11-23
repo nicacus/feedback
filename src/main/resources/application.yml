@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: FeedbackApp
+  mvc:
+    pathmatch:
+      matching-strategy: ant_path_matcher
+
+server:
+  port: 8080
+
+info:
+  build:
+    artifact: @project.artifactId@
+    version: @project.version@

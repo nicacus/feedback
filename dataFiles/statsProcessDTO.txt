@@ -1,0 +1,1 @@
+StatsProcessDTO(jobExecutionCode=2, numberOfCompanies=1215278, numberOfProcessedCompanies=153539, numberOfSucceed=0, numberOfFailed=0, runningStatus=true)
